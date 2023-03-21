@@ -110,4 +110,4 @@ grep Wolf test123.txt = Der grep befehl sucht in diesem fall aus der datei test1
 cut -d "=" = filtert jedes = aus der datei heraus.
 
 ### Uniq
-uniq -c "test123.txt" = Filter alle doppelte namen im text test123.txt heraus und schreibt die anzahl dazu.
+uniq -c "test123.txt" = Filter alle doppelte namen im text test123.txt heraus und schreibt die anzahl dazu.wo
