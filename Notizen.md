@@ -5,8 +5,9 @@ ssh-verbinden = mattis@142.132.180.233
 ## Allgemeine befehle
 ping-befehl = Checkt ob Computer verbindung mit Server hat.
 password-change = passwd
-change_me
 sudo (Befehl) = Führt befehl mit Admin rechten aus, d.h. dass User ohne Admin rechte diese Datei nicht löschen/benutzen können.
+
+sort = Sortier ein Text nach dem ABC.
 
 ## Mark-down
 Markdown ist eine Auszeichnungssprache zur einfachen Textformatierung.
@@ -102,4 +103,11 @@ Dateien in ein Tar-Archiv packen = tar cfvz Test.tar.gz datei1 datei2 datei3 ...
 Dateien in ein Komprimiertes Tar-Archiv packen = tar cfzv Test.tar.gz datei1 datei2 datei 3 ...
 Tar-Archiv entpacken = tar xfv Test.tar.gz
 
-Test123
+### Grep
+grep Wolf test123.txt = Der grep befehl sucht in diesem fall aus der datei test123.txt alle zeilen raus die den Text WOLF enthalten.
+
+### Cut
+cut -d "=" = filtert jedes = aus der datei heraus.
+
+### Uniq
+uniq -c "test123.txt" = Filter alle doppelte namen im text test123.txt heraus und schreibt die anzahl dazu.
