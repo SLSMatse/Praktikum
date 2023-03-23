@@ -1,1 +1,0 @@
-## CTF (overthewire.org/wargames/bandit)
