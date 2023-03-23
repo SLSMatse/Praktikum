@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e23a56d094d68266",
+            "id": "99232fc5922750ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "99232fc5922750ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git-Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git-Commands.md",
+                "file": "Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git-Commands.md",
+                "file": "Notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git-Commands.md"
+                "file": "Notizen.md"
               }
             }
           }
@@ -161,8 +148,8 @@
   },
   "active": "99232fc5922750ce",
   "lastOpenFiles": [
-    "Notizen.md",
     "Git-Commands.md",
+    "Notizen.md",
     "vorlage",
     "Praktikum-Test"
   ]
