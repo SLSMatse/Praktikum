@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39d38b01eaf3869d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aufgaben Freitag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen.md",
+                "file": "Aufgaben Freitag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen.md",
+                "file": "Aufgaben Freitag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen.md"
+                "file": "Aufgaben Freitag.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99232fc5922750ce",
+  "active": "39d38b01eaf3869d",
   "lastOpenFiles": [
-    "Git-Commands.md",
     "Notizen.md",
+    "Aufgaben Freitag.md",
+    "Git-Commands.md",
     "vorlage",
     "Praktikum-Test"
   ]
