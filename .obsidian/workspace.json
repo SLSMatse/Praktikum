@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aufgaben Freitag.md",
+                "file": "Git-Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufgaben Freitag.md",
+                "file": "Git-Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aufgaben Freitag.md",
+                "file": "Git-Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufgaben Freitag.md"
+                "file": "Git-Commands.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "39d38b01eaf3869d",
   "lastOpenFiles": [
     "Notizen.md",
-    "Aufgaben Freitag.md",
+    "Aufgaben-Freitag.md",
     "Git-Commands.md",
     "vorlage",
     "Praktikum-Test"
